@@ -28,7 +28,7 @@ const topicsList = [
   "Geopolitical",
   "Mental Health",
   "NIL",
-  "Physical Security",
+  "Physical Security Threat",
   "Policy",
   "Prop 2",
   "Residential Life",
